@@ -1,0 +1,900 @@
+[
+  {
+    "name": "10 Buses - scrap receipt.pdf",
+    "sha256": "384406517066e8672de04215b4f7df076d1ab147fb62ff5c7a7578a7e5485b4b",
+    "bytes": 51155,
+    "view": "evidence/10-buses-scrap-receipt-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "11 Buses - scrap receipt.pdf",
+    "sha256": "b0a3c8869dc81c091d02c67d7f4460d8a9c77685ed4bee6b33d0ee40ce251fb5",
+    "bytes": 48839,
+    "view": "evidence/11-buses-scrap-receipt-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "199963.pdf",
+    "sha256": "5ca5141cb5354b8903da7f04bf126f3f8405b2113409132a3fc1aaf000eaa082",
+    "bytes": 257614,
+    "view": "evidence/199963-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/199963-pdf.pdf"
+  },
+  {
+    "name": "200010.pdf",
+    "sha256": "55ad603a1d5d8f16ea47a91283c4ba80c8a097f1303b0665a0bc7585b2fd936f",
+    "bytes": 204080,
+    "view": "evidence/200010-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/200010-pdf.pdf"
+  },
+  {
+    "name": "200011.pdf",
+    "sha256": "84be324bf76b1891ef9e18234d896d8031b332af1dbfbc0b7ba3e99747f7424d",
+    "bytes": 209393,
+    "view": "evidence/200011-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/200011-pdf.pdf"
+  },
+  {
+    "name": "200012.pdf",
+    "sha256": "0c37205ed2b2ace13776f5201654abbb18f9041315b69af3967e3beb23462531",
+    "bytes": 139917,
+    "view": "evidence/200012-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/200012-pdf.pdf"
+  },
+  {
+    "name": "200013.pdf",
+    "sha256": "a2b261058a0401aa18f797693dc89bcc6fb529af1b1be4cbb42df7b6a84bd4ac",
+    "bytes": 220021,
+    "view": "evidence/200013-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/200013-pdf.pdf"
+  },
+  {
+    "name": "200015.pdf",
+    "sha256": "1edaf35adbac3adc1b8a6776c92e88da83beedf28863275e179c709f79fbc033",
+    "bytes": 145229,
+    "view": "evidence/200015-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/200015-pdf.pdf"
+  },
+  {
+    "name": "200016.pdf",
+    "sha256": "61c0e7bd927d837a01749aba1fdaf41d1aa9e73fb506493ea19d190ca94ab45e",
+    "bytes": 150541,
+    "view": "evidence/200016-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/200016-pdf.pdf"
+  },
+  {
+    "name": "200017.pdf",
+    "sha256": "afc6773bec47f874c9bd451e70521bd481e7577ef47163b382eb5c4db85e1efc",
+    "bytes": 155853,
+    "view": "evidence/200017-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/200017-pdf.pdf"
+  },
+  {
+    "name": "200019.pdf",
+    "sha256": "ba27371ffd9e35df32c022ec1b7cad0353dac57174ce88a701956195677a06ad",
+    "bytes": 161167,
+    "view": "evidence/200019-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/200019-pdf.pdf"
+  },
+  {
+    "name": "200020.pdf",
+    "sha256": "9d2b2a0285c39c1f93f9fd1c9a64bdf24b484bc937ee9cfd6f0463553d9a6f02",
+    "bytes": 166480,
+    "view": "evidence/200020-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/200020-pdf.pdf"
+  },
+  {
+    "name": "200022.pdf",
+    "sha256": "9ab021512a6038e40ad3f157dd42b6591cd352e62c4e84e84c928148f2da8d7d",
+    "bytes": 171792,
+    "view": "evidence/200022-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/200022-pdf.pdf"
+  },
+  {
+    "name": "200023.pdf",
+    "sha256": "a2bd90f7f85a7f22e2386142e218ab14c3a11fecd5da2096ad5ffe9b24d719b9",
+    "bytes": 177104,
+    "view": "evidence/200023-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/200023-pdf.pdf"
+  },
+  {
+    "name": "200024.pdf",
+    "sha256": "0680372ab2dc088237f2c92bac789b8eee84eedd50e5be9837067bfadc2791b5",
+    "bytes": 182413,
+    "view": "evidence/200024-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/200024-pdf.pdf"
+  },
+  {
+    "name": "2024 CY Dispositions.csv",
+    "sha256": "c15fb08b9f7709fbe3f351133417d06b8ab07773266c750d72cd3d820dae0902",
+    "bytes": 63277,
+    "view": "evidence/2024-cy-dispositions-csv.html",
+    "type": ".csv",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "2024_Disposal_Clarification.xlsx",
+    "sha256": "de67d7e31cdb19ffdacbba1f38017a6a3ef81773fd54db2edc936159703520e3",
+    "bytes": 6597,
+    "view": "evidence/2024-disposal-clarification-xlsx.html",
+    "type": ".xlsx",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "210031.pdf",
+    "sha256": "b993b7c8af2df72d1645e390e6639066727dbffec9ff65578a6cc6387912dd40",
+    "bytes": 187726,
+    "view": "evidence/210031-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/210031-pdf.pdf"
+  },
+  {
+    "name": "210032.pdf",
+    "sha256": "a9f72c83e4328a8f72bfde405cbd1d89d200a6ef0be34999338104715f73d7f0",
+    "bytes": 193038,
+    "view": "evidence/210032-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/210032-pdf.pdf"
+  },
+  {
+    "name": "210033.pdf",
+    "sha256": "92b53f6eaa87fb14a9f397199fc1e025a5574a8eee06623c5746cc589bd88204",
+    "bytes": 214708,
+    "view": "evidence/210033-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/210033-pdf.pdf"
+  },
+  {
+    "name": "210035.pdf",
+    "sha256": "8a79300e3907fd015826d71f2bc08e31550d551924867da84ade31f1c01e5d2f",
+    "bytes": 225332,
+    "view": "evidence/210035-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/210035-pdf.pdf"
+  },
+  {
+    "name": "210169.pdf",
+    "sha256": "c72f962c42ce15e93e51007cad568bdf4f3bc03ec6b06550a50055955e8ec7a7",
+    "bytes": 215118,
+    "view": "evidence/210169-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/210169-pdf.pdf"
+  },
+  {
+    "name": "210170.pdf",
+    "sha256": "709d3b0475fe723d571fdc6bd52e402e289284de780b92052a14243386725eef",
+    "bytes": 220426,
+    "view": "evidence/210170-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/210170-pdf.pdf"
+  },
+  {
+    "name": "210173.pdf",
+    "sha256": "f18c27271c8a32c48742e89d34e4b0db85a35d1ba30959d9f184ad89f3c5b02e",
+    "bytes": 225738,
+    "view": "evidence/210173-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/210173-pdf.pdf"
+  },
+  {
+    "name": "210174.pdf",
+    "sha256": "33dcf4ad4084754d4937170a99400c7d9c2fe70b7d4ac55aaf61de00760d58aa",
+    "bytes": 231049,
+    "view": "evidence/210174-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/210174-pdf.pdf"
+  },
+  {
+    "name": "210175.pdf",
+    "sha256": "00d7e9b5ca6cec5bf8c5e98951f9978707b5de0face4e1ce9035879f5e9d325b",
+    "bytes": 236361,
+    "view": "evidence/210175-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/210175-pdf.pdf"
+  },
+  {
+    "name": "210177.pdf",
+    "sha256": "57b6c29560cb1ab42740b71804b0209b95643782425c62b5c9d83ec8f06831cc",
+    "bytes": 241675,
+    "view": "evidence/210177-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/210177-pdf.pdf"
+  },
+  {
+    "name": "210181.pdf",
+    "sha256": "72f3758dca5fc53e45866cd511548f857f9e73be9b751122cd836e9dc673f441",
+    "bytes": 246987,
+    "view": "evidence/210181-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/210181-pdf.pdf"
+  },
+  {
+    "name": "210184.pdf",
+    "sha256": "a62dcf4535161f01ac45ebf80392ad849ceb2782d3f4fa668046b2ebbd2d4329",
+    "bytes": 230643,
+    "view": "evidence/210184-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/210184-pdf.pdf"
+  },
+  {
+    "name": "210191.pdf",
+    "sha256": "6bdd170a55d7224a83b1c52b7f520acf04a55b3ad96026ede29c99d1ed81c582",
+    "bytes": 252302,
+    "view": "evidence/210191-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/210191-pdf.pdf"
+  },
+  {
+    "name": "210193.pdf",
+    "sha256": "5c907206c9d9640446cc7be2e187272b1abdb39325029f4adb70dc17b8dbc5af",
+    "bytes": 235952,
+    "view": "evidence/210193-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/210193-pdf.pdf"
+  },
+  {
+    "name": "Billing (6) (1).pdf",
+    "sha256": "c61e7df7ec2d7ccc22fd6455ee9628e1bf7ec9062fdba437193d07190b04883d",
+    "bytes": 53237,
+    "view": "evidence/billing-6-1-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/billing-6-1-pdf.pdf"
+  },
+  {
+    "name": "BookValueReport  (1).pdf",
+    "sha256": "7d79ee376ea065f9fdc7fd637626b52ad15c8ef9aeb04ea4eb64046d1315757f",
+    "bytes": 36733,
+    "view": "evidence/bookvaluereport-1-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "BookValueReport (2).pdf",
+    "sha256": "7c961cee43a6d9db2884afd2691698a8cc3f93c2223bc25e71aa575af73d9798",
+    "bytes": 36653,
+    "view": "evidence/bookvaluereport-2-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "BookValueReport (3).pdf",
+    "sha256": "813bf19713bf96d728f7b9de7b0aa788d99940ec0afa09d653785dd278eac435",
+    "bytes": 36593,
+    "view": "evidence/bookvaluereport-3-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "Bus  43.pdf",
+    "sha256": "38d33afe837e2642d061a8d26219d34f0d25029c2f5e20bf25fd67d250dbc745",
+    "bytes": 1354483,
+    "view": "evidence/bus-43-vehicle-records-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "BUS 005.pdf",
+    "sha256": "cece7aa6243afac9cb8626d8ad26c21368fcfcb0e358cc6e2fe1acee5a58d59b",
+    "bytes": 74103,
+    "view": "evidence/bus-005-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/bus-005-pdf.pdf"
+  },
+  {
+    "name": "BUS 011.pdf",
+    "sha256": "f4eec84bbd3a7289cae98bcf6e784a03b7682554552844cfd9fea1b5b3fa8fec",
+    "bytes": 73804,
+    "view": "evidence/bus-011-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/bus-011-pdf.pdf"
+  },
+  {
+    "name": "BUS 025.pdf",
+    "sha256": "a131f79edb8abb284cc1b9baf3634a8a8343ad1c3256cfd4fb2459d45e2af18d",
+    "bytes": 75290,
+    "view": "evidence/bus-025-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/bus-025-pdf.pdf"
+  },
+  {
+    "name": "BUS 030.pdf",
+    "sha256": "bb78cc720a57b25dd140f75f1dda3be4ca02f5632865d1122bfca0e7a85cd389",
+    "bytes": 61280,
+    "view": "evidence/bus-030-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/bus-030-pdf.pdf"
+  },
+  {
+    "name": "BUS 044.pdf",
+    "sha256": "d5f75d58febb767ac69fa0c8c7bcb16870c68eb7b99d2ed20b3df893ff360912",
+    "bytes": 74281,
+    "view": "evidence/bus-044-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/bus-044-pdf.pdf"
+  },
+  {
+    "name": "BUS 049.pdf",
+    "sha256": "2bcb047b49c0a9e4d152428d64c089922b5d9b137b5ca702379791ee4c3a10a0",
+    "bytes": 84949,
+    "view": "evidence/bus-049-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/bus-049-pdf.pdf"
+  },
+  {
+    "name": "BUS 055.pdf",
+    "sha256": "0ced94b4c4e1b0d8bec4b71cf25fc9839ca9115890efd7839176f75f43d17438",
+    "bytes": 84475,
+    "view": "evidence/bus-055-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/bus-055-pdf.pdf"
+  },
+  {
+    "name": "BUS 061.pdf",
+    "sha256": "7da357b3b9001a4d2dea6629f97d37f2593d302d3a4ae10cfeb8fa5c7193d055",
+    "bytes": 71450,
+    "view": "evidence/bus-061-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/bus-061-pdf.pdf"
+  },
+  {
+    "name": "BUS 091.pdf",
+    "sha256": "cdec91591ff9ba6562452d1925d9caac6d12e1a734ada966a46157786d08de11",
+    "bytes": 71769,
+    "view": "evidence/bus-091-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/bus-091-pdf.pdf"
+  },
+  {
+    "name": "Bus 11 - State ID 00177.pdf",
+    "sha256": "31b62661a29896b5dabf8c659b5fd8b22e3ebff79fd9c818e8915084eafc20fe",
+    "bytes": 740238,
+    "view": "evidence/bus-11-state-id-00177-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "BUS 122.pdf",
+    "sha256": "a44e200fd2090447558a765c49fbfd4be14279bf276cce718e29ea247632ecdf",
+    "bytes": 85367,
+    "view": "evidence/bus-122-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/bus-122-pdf.pdf"
+  },
+  {
+    "name": "BUS 126.pdf",
+    "sha256": "4731039eb95ba337a97976d5d60cb37ca4d5cc18eac97733841f4b0c4a7eeed1",
+    "bytes": 82004,
+    "view": "evidence/bus-126-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/bus-126-pdf.pdf"
+  },
+  {
+    "name": "BUS 127.pdf",
+    "sha256": "116c46f4784805ba618eae409453d5a7ca360ca0ecca0b20168c28dfa8f2fb3e",
+    "bytes": 71896,
+    "view": "evidence/bus-127-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/bus-127-pdf.pdf"
+  },
+  {
+    "name": "BUS 128.pdf",
+    "sha256": "2533b63bb6560a1302313a19f401b5a1f38ed4f80163222d926a5cf46b4fdb1f",
+    "bytes": 71230,
+    "view": "evidence/bus-128-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/bus-128-pdf.pdf"
+  },
+  {
+    "name": "BUS 130.pdf",
+    "sha256": "41beca1132cff27ae44497f238b1785c81f88b0f34ff1e2c44e0169007da289f",
+    "bytes": 83452,
+    "view": "evidence/bus-130-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/bus-130-pdf.pdf"
+  },
+  {
+    "name": "BUS 134.pdf",
+    "sha256": "e625b9fdebcf1f1d83d4cd5cb9d105c911c4f5a762cfe64aa17c6f9f0338b142",
+    "bytes": 74227,
+    "view": "evidence/bus-134-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/bus-134-pdf.pdf"
+  },
+  {
+    "name": "BUS 137.pdf",
+    "sha256": "a05e5977fae063867ef35af3ba4acc693a621064f0cb1ba231c89fa43b129476",
+    "bytes": 83515,
+    "view": "evidence/bus-137-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/bus-137-pdf.pdf"
+  },
+  {
+    "name": "BUS 144.pdf",
+    "sha256": "43e0c0cf186cc0124ec4bb8d9ad07be1eef88e6aa8e8c3c8eb54583d912ebbb9",
+    "bytes": 74800,
+    "view": "evidence/bus-144-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/bus-144-pdf.pdf"
+  },
+  {
+    "name": "BUS 146.pdf",
+    "sha256": "34686a40b400fd39e9e0a25144c69ff612631c407f3afeea2c062c78501203fd",
+    "bytes": 82059,
+    "view": "evidence/bus-146-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/bus-146-pdf.pdf"
+  },
+  {
+    "name": "Bus 25 - State ID 00165.pdf",
+    "sha256": "8ca2683e6e80a091ac40476d1c86879afa9a2e4a303e9d579df0025e0b78c4b7",
+    "bytes": 750015,
+    "view": "evidence/bus-25-state-id-00165-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "Bus 31.docx",
+    "sha256": "7d4917d01572613f1bc708a494cbe27f2043b9c27980b0b2190f5ab9d4b3ad29",
+    "bytes": 2939528,
+    "view": "evidence/bus-31-docx.html",
+    "type": ".docx",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "BUS 31.pdf",
+    "sha256": "d19ec2385dfc4320bb658b0f58c35b7696a83b7bb83297ea1087fe3d2a036c05",
+    "bytes": 92096,
+    "view": "evidence/bus-31-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/bus-31-pdf.pdf"
+  },
+  {
+    "name": "Bus 33.docx",
+    "sha256": "87ba69e4f593aecba232c4c1510efd462c8a2f4b668f0c12a8861d2e654345f1",
+    "bytes": 2497731,
+    "view": "evidence/bus-33-docx.html",
+    "type": ".docx",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "BUS 33.pdf",
+    "sha256": "5ce5df592cb8d163ae52b19e1e000858264a7730bb9716bb9aa028d73ecd91d6",
+    "bytes": 64252,
+    "view": "evidence/bus-33-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/bus-33-pdf.pdf"
+  },
+  {
+    "name": "Bus 42.docx",
+    "sha256": "eb2623b43a587523d1c22a51fa502fd377d74e763d8b88d690af45288679c616",
+    "bytes": 3832269,
+    "view": "evidence/bus-42-docx.html",
+    "type": ".docx",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "BUS 42.pdf",
+    "sha256": "3249a53867a1ee2dd4237d9cf04d3405b5a931909f24c3330553866a3d599b95",
+    "bytes": 73736,
+    "view": "evidence/bus-42-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/bus-42-pdf.pdf"
+  },
+  {
+    "name": "Bus 43.docx",
+    "sha256": "f86b5d0bc2db3fad5eebe34350dce7fe8b7276505f94360e5425ec1904b32bd2",
+    "bytes": 3506681,
+    "view": "evidence/bus-43-docx.html",
+    "type": ".docx",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "BUS 43.pdf",
+    "sha256": "144ec5ca35c6ae51ec22d9069b47a587193d0205e0a3ec8eb918933153594265",
+    "bytes": 82383,
+    "view": "evidence/bus-43-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/bus-43-pdf.pdf"
+  },
+  {
+    "name": "Bus 48.docx",
+    "sha256": "7491e0673853d6d7f83b256805dce4e928b89b4bd861dc2599c07e61d9ac0273",
+    "bytes": 14509,
+    "view": "evidence/bus-48-docx.html",
+    "type": ".docx",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "BUS 48.pdf",
+    "sha256": "f4ebe1e677e32a4b9f6e90dc213813bbe4ee607e319c88eae6b93dc2d86cd22b",
+    "bytes": 72608,
+    "view": "evidence/bus-48-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/bus-48-pdf.pdf"
+  },
+  {
+    "name": "Bus 5 - State ID 00163.pdf",
+    "sha256": "e74519327502b741e91112fd1bcaa23205974e7494f1d5ab67e4fd746872060f",
+    "bytes": 741599,
+    "view": "evidence/bus-5-state-id-00163-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "Bus 51.docx",
+    "sha256": "a676a170350bb105e9cfdba77be9e2770fd7517051113c9b55df421146eb46a6",
+    "bytes": 13293,
+    "view": "evidence/bus-51-docx.html",
+    "type": ".docx",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "BUS 51.pdf",
+    "sha256": "f316a580bfcdec65016d54a03e29fee8e08e75d271a1bc590c4910e483f351be",
+    "bytes": 53320,
+    "view": "evidence/bus-51-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/bus-51-pdf.pdf"
+  },
+  {
+    "name": "BUS 57.docx",
+    "sha256": "0394ef7c0fd1e23e6a1fbeb3c9cb2f8f3949b10bc37f638d24f4317e64d282b6",
+    "bytes": 3008764,
+    "view": "evidence/bus-57-docx.html",
+    "type": ".docx",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "BUS 57.pdf",
+    "sha256": "23eb8652d2db150219fcef85ee9b86e03aa4a13c9a7b10da98991bda9c1e5352",
+    "bytes": 74682,
+    "view": "evidence/bus-57-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/bus-57-pdf.pdf"
+  },
+  {
+    "name": "Bus 58.docx",
+    "sha256": "853f84a37f80caf06036eab56af35fe75350fb72705f2fe7e298c414bd1854f1",
+    "bytes": 3072033,
+    "view": "evidence/bus-58-docx.html",
+    "type": ".docx",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "BUS 58.pdf",
+    "sha256": "e86edd8439c093d677f0f8d502fee57c2e828f7e730cd839f0dbd7a2956374e7",
+    "bytes": 74137,
+    "view": "evidence/bus-58-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/bus-58-pdf.pdf"
+  },
+  {
+    "name": "Bus 67.docx",
+    "sha256": "baf4e68273c94ff52d05ce1842fea14ee790c01d26ce25043a292ca358e2735a",
+    "bytes": 2811263,
+    "view": "evidence/bus-67-docx.html",
+    "type": ".docx",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "BUS 67.pdf",
+    "sha256": "9454c02bac666ea356293d951aad4df971f2ae94309145bd2373b48839cd930a",
+    "bytes": 84165,
+    "view": "evidence/bus-67-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/bus-67-pdf.pdf"
+  },
+  {
+    "name": "Bus 68.docx",
+    "sha256": "13d7d2c87edce70b05108cf1bbd9bf1c7e191b74d94ab5c32d5b3bee9e135399",
+    "bytes": 14550,
+    "view": "evidence/bus-68-docx.html",
+    "type": ".docx",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "BUS 68.pdf",
+    "sha256": "e56089de50ec7612287bcaa82bc91b5cb349290863458c9b608c55414636c4af",
+    "bytes": 74744,
+    "view": "evidence/bus-68-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/bus-68-pdf.pdf"
+  },
+  {
+    "name": "Bus 72.docx",
+    "sha256": "3e777fd784acbded5ecf0cc37d16c5743f15ce90c1ef8f269c2cc02020008540",
+    "bytes": 14516,
+    "view": "evidence/bus-72-docx.html",
+    "type": ".docx",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "BUS 72.pdf",
+    "sha256": "3ec120155a5485bf93c23d14c187c784b4e672b12d6b51234d384f28cd12b5c9",
+    "bytes": 53619,
+    "view": "evidence/bus-72-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/bus-72-pdf.pdf"
+  },
+  {
+    "name": "Bus Disposition Records.pdf",
+    "sha256": "422f7e661aa739df7d244fcfd14a24b9cc64c9fc49a84f6dde93ba85d73b883f",
+    "bytes": 42904,
+    "view": "evidence/bus-disposition-records-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately",
+    "download": "downloads/bus-disposition-records-pdf.pdf"
+  },
+  {
+    "name": "Buses - scrap receipt.pdf",
+    "sha256": "0e508ec5a52f69ab8c124bc84bd9ef7ecefa3366dc35cac1fd67098362af5132",
+    "bytes": 213651,
+    "view": "evidence/buses-scrap-receipt-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "Email chain supplied - 01.txt",
+    "sha256": "4d9811d396fbaeec827a0dee0ee450fa06bff27cf8888708b2cbeb70153107a7",
+    "bytes": 5454,
+    "view": "evidence/email-chain-supplied-01-txt.html",
+    "type": ".txt",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "Email chain supplied - 02.txt",
+    "sha256": "22894c9ecad334985f0bceada0c764cfae97985c920d929b4e6fc0bfaab5fea2",
+    "bytes": 10165,
+    "view": "evidence/email-chain-supplied-02-txt.html",
+    "type": ".txt",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "Email chain supplied - 03.txt",
+    "sha256": "49b2f71fa9a26badead5b1ec732f0791584ca53debfe599da375c3a97634b615",
+    "bytes": 7703,
+    "view": "evidence/email-chain-supplied-03-txt.html",
+    "type": ".txt",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "Email chain supplied - 04.txt",
+    "sha256": "0b0a2f7e4696e7bf962097e581e83509c9a9aa4fd8faadc2251236bf472be6d9",
+    "bytes": 13233,
+    "view": "evidence/email-chain-supplied-04-txt.html",
+    "type": ".txt",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "Email chain supplied - 05.txt",
+    "sha256": "021b4d93fa19258367aa9291c99ac1460703468fb6ed87b659a5ef48af41a0e0",
+    "bytes": 14311,
+    "view": "evidence/email-chain-supplied-05-txt.html",
+    "type": ".txt",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "Email chain supplied - 06.txt",
+    "sha256": "c29b31d6f673bee6b2e238127e4e40a2e392681572aba64296bbb4df2625ecd9",
+    "bytes": 14151,
+    "view": "evidence/email-chain-supplied-06-txt.html",
+    "type": ".txt",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "Email chain supplied - 07.txt",
+    "sha256": "9c77840203a91bec4ef1ed594afcb9b0e5c93fe565a9494c5d019ee26e5a697c",
+    "bytes": 14651,
+    "view": "evidence/email-chain-supplied-07-txt.html",
+    "type": ".txt",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "Email chain supplied - 08.txt",
+    "sha256": "5ade9359f332e7e55db05f8e27421f4fabc5c748d19088eec3067dbd715039cd",
+    "bytes": 27741,
+    "view": "evidence/email-chain-supplied-08-txt.html",
+    "type": ".txt",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "Email chain supplied - 09.txt",
+    "sha256": "caf83f2b651e2f00da81b22691660b75866cfac5c9f0232d997aadc0770087d1",
+    "bytes": 31018,
+    "view": "evidence/email-chain-supplied-09-txt.html",
+    "type": ".txt",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "Email chain supplied - 10.txt",
+    "sha256": "da7254502b2e9646312562010c26248d41a47de1085fb337c1b3d33c524b4315",
+    "bytes": 32516,
+    "view": "evidence/email-chain-supplied-10-txt.html",
+    "type": ".txt",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "Email chain supplied - 11.txt",
+    "sha256": "da7254502b2e9646312562010c26248d41a47de1085fb337c1b3d33c524b4315",
+    "bytes": 32516,
+    "view": "evidence/email-chain-supplied-11-txt.html",
+    "type": ".txt",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "Email chain supplied - 12.txt",
+    "sha256": "6728f5b38495a73081e3242b2e535d3dc5323e7dcb06b7adbb852b1b90831112",
+    "bytes": 34744,
+    "view": "evidence/email-chain-supplied-12-txt.html",
+    "type": ".txt",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "Email chain supplied - 13.txt",
+    "sha256": "9f41f9c96b08729ee6589da7cc89f3917c2b63679bbe125da5b220ac24d67243",
+    "bytes": 36419,
+    "view": "evidence/email-chain-supplied-13-txt.html",
+    "type": ".txt",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "fairfield city school district- buses 12.19.2025.pdf",
+    "sha256": "1602f704624531a5af3a499d187feda339a1f48ceb0d6e87b1b4ce62ef699f6b",
+    "bytes": 3821015,
+    "view": "evidence/fairfield-city-school-district-buses-12-19-2025-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "fairfield City school District- buses 9.3.2025 14014.pdf",
+    "sha256": "00c97978a392d97914cdb5eccb213c9baf96f675157ea604c9b1ee48ab91c710",
+    "bytes": 90036,
+    "view": "evidence/fairfield-city-school-district-buses-9-3-2025-14014-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "FAIRFIELD TRADES.xlsx",
+    "sha256": "87e60a379d69e449b519ae66a7063f135e55db11f7e39555a35cb1407346631f",
+    "bytes": 12046,
+    "view": "evidence/fairfield-trades-xlsx.html",
+    "type": ".xlsx",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "FCSD Bus Fleet-analysis 3-2022 (1).xlsx",
+    "sha256": "3923fdfce6b55daf987dc1f3ae51e75865e1e7acbf958e54bb3724b68f951faf",
+    "bytes": 495073,
+    "view": "evidence/fcsd-bus-fleet-analysis-3-2022-1-xlsx.html",
+    "type": ".xlsx",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "FCSD Used Buses.xlsx",
+    "sha256": "efeb938e43897628753cda5b7c979cc5d410c34b35efb6e30d4981f86672e843",
+    "bytes": 11331,
+    "view": "evidence/fcsd-used-buses-xlsx.html",
+    "type": ".xlsx",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "FY 2024 approval of the disposal of the following fixed assets.xlsx",
+    "sha256": "cef0bd2c610bec043d0bca5e2022c25deb24314cf7cabf54c09440dee679f227",
+    "bytes": 55097,
+    "view": "evidence/fy-2024-approval-of-the-disposal-of-the-following-fixed-assets-xlsx.html",
+    "type": ".xlsx",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "Invoice 2125 Correspondence.pdf",
+    "sha256": "87b8c2dc4eb7f18f0cf100600c555ed2eeea16cc529a66ce83c2a72942aa29ed",
+    "bytes": 206065,
+    "view": "evidence/invoice-2125-correspondence-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "Receipts 250641.pdf",
+    "sha256": "64f68fef71b9a6a46172e01f0432076bfe8fc7ba51aea40257d84bbdf84e8397",
+    "bytes": 51597,
+    "view": "evidence/receipts-250641-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "Receipts.pdf",
+    "sha256": "28ef5645bcf148a04d19350ad61db60c1a763e5cf6bb42694ab2e0ba20e2e284",
+    "bytes": 48839,
+    "view": "evidence/receipts-pdf.html",
+    "type": ".pdf",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "Repair History - FAIRFIELD CITY BUS 123 (1) (1).xlsx",
+    "sha256": "1fe2ed7c671f0e45e91ec3cf375af27080a90501874d9f10470d65c373a2090c",
+    "bytes": 32741,
+    "view": "evidence/repair-history-fairfield-city-bus-123-1-1-xlsx.html",
+    "type": ".xlsx",
+    "status": "Public derivative; original retained privately"
+  },
+  {
+    "name": "Records request - bus item listing.csv",
+    "sha256": "c78f756d12fb5bdd1f90c1af7cfe6f82ea6625b910c6843bebf27e1ac79cd5e3",
+    "bytes": 3927,
+    "view": "evidence/records-request-bus-item-listing-csv.html",
+    "type": ".csv",
+    "status": "Public derivative; original retained privately"
+  }
+]
