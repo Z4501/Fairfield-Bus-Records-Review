@@ -1,0 +1,11 @@
+// Progressive enhancement: all source text remains available without JavaScript.
+const evidenceSearch=document.querySelector('#search');if(evidenceSearch){const files=[...document.querySelectorAll('#files .file')];const status=document.createElement('p');status.setAttribute('role','status');evidenceSearch.after(status);const search=()=>{const terms=evidenceSearch.value.toLowerCase().trim().split(/\s+/).filter(Boolean);let n=0;files.forEach(f=>{f.hidden=!terms.every(t=>f.querySelector('h3').textContent.toLowerCase().includes(t));if(!f.hidden)n++});status.textContent=n+' of '+files.length+' source files';};evidenceSearch.addEventListener('input',search);search();}
+document.querySelectorAll('.mobile-table').forEach(table=>{
+ const rows=[...table.querySelectorAll('tbody tr')];if(rows.length<15)return;
+ const label=document.createElement('label');label.className='filter-label';label.textContent='Search these records';const input=document.createElement('input');input.type='search';input.placeholder='Type a name, bus, year or keyword';label.append(input);table.before(label);
+ const status=document.createElement('p');status.className='quiet';status.setAttribute('role','status');label.after(status);
+ const update=()=>{const terms=input.value.toLowerCase().trim().split(/\s+/).filter(Boolean);let count=0;rows.forEach(row=>{row.hidden=!terms.every(t=>row.textContent.toLowerCase().includes(t));if(!row.hidden)count++});status.textContent=count+' of '+rows.length+' records';};input.addEventListener('input',update);update();
+});
+// Photo grouping lets readers focus on one bus while preserving every image.
+const figures=[...document.querySelectorAll('.gallery figure')];if(figures.length){const label=document.createElement('label');label.textContent='Photos by bus';const select=document.createElement('select');select.add(new Option('All buses',''));const buses=[...new Set(figures.map(f=>f.textContent.match(/Bus\s+(\d+)/i)?.[1]).filter(Boolean))];buses.forEach(b=>select.add(new Option('Bus '+b,b)));label.append(select);document.querySelector('.gallery').before(label);select.onchange=()=>figures.forEach(f=>f.hidden=!!select.value&&!new RegExp('Bus\\s+'+select.value+'\\b','i').test(f.textContent));}
+
